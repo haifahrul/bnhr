@@ -14,10 +14,10 @@ Heru is here, a Front End Developer living and working in South Jakarta.
 - 🎥 Movie watcher and 🐶 lover
 
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello Gengs!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 💬 Ask me about anything and everything!
-- 📫 React me at [Telegram](https:/t.me/bnhr7)
+- 📫 Reach me at https://t.me/bnhr7 - [Telegram](https://t.me/bnhr7)
 - ☕ Fun fact: Ice tea and coffee drinker, count me in if you have tea party!
 ---
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=bnhr&show_icons=true)
+![Heru's github stats](https://github-readme-stats.vercel.app/api?username=bnhr&show_icons=true)
