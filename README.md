@@ -17,7 +17,7 @@ Heru is here, a Front End Developer living and working in South Jakarta.
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello Gengs!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 💬 Ask me about anything and everything!
-- 📫 Reach me at https://t.me/bnhr7 - [Telegram](https://t.me/bnhr7)
+- 📫 Reach me at [Telegram](https://t.me/bnhr7)
 - ☕ Fun fact: Ice tea and coffee drinker, count me in if you have tea party!
 ---
 ![Heru's github stats](https://github-readme-stats.vercel.app/api?username=bnhr&show_icons=true)
