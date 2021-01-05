@@ -7,7 +7,7 @@
 Heru is here, a Front End Developer living and working in South Jakarta.
 
 ## 😁 About
-- 🐱‍👤 Front End guy who interested in Programming and UI/UX Design
+- 👨🏻‍💻 Front End guy who interested in Programming and UI/UX Design
 - 👨‍🎓 Graduated as Reakayasa Perangkat Lunak student in 2017
 - 👔 New member of Digital Agency in South Jakarta
 - 💻 Been working on my new personal website
