@@ -4,19 +4,19 @@
 [![GitHub followers](https://img.shields.io/github/followers/bnhr?label=Follow&style=social)](https://github.com/bnhr/?tab=follow)
 ---
 ## Hello there 👋,
-Heru is here, a Front End Developer living and working in South Jakarta.
+Hi folks, it's me, your Frontend Developer partner
 
-## 😁 About
-- 👨🏻‍💻 Front End guy who interested in Programming and UI/UX Design
-- 👨‍🎓 Graduated as Reakayasa Perangkat Lunak student in 2017
-- 👔 New member of Digital Agency in South Jakarta
-- 💻 Been working on my new personal website
+## 🤠 A little about me
+- 👨🏻‍💻 Frontend who interested in programming and UI/UX design.
+- 👨‍🎓 Graduated as Reakayasa Perangkat Lunak student in 2017.
+- 👔 Working as Frontend Developer @ Digital agency in Jakarta, Indonesia.
+- 💻 Been working on my new personal website (which has never been finished for too many revision)
 - 🎥 Movie watcher and 🐶 lover
 
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello Gengs!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello Gengs!&nbsp;
 
-- 💬 Ask me about anything and everything!
+- 💬 Been in love with Open Source Projects
 - 📫 Reach me at [Telegram](https://t.me/herugun)
 - ☕ Fun fact: Ice tea and coffee drinker, count me in if you have tea party!
 ---
